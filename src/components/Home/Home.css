@@ -1,0 +1,107 @@
+body {
+  background: #ececec;
+  margin: 0;
+  padding: 0;
+  
+    font-family: "Martel", serif;
+    font-weight: 300;
+    font-style: normal;
+  
+}
+
+.titlepage {
+  width: 454px;
+  height: 30px;
+  margin-left: 25px;
+  color: #01003c;
+  font-size: 100px;
+}
+
+.about {
+  margin-top: 100px;
+  color: #01003c;
+  justify-content: left;
+  padding: 30px;
+  font-size: medium;
+  margin-right: 500px;
+}
+
+img {
+  max-width: 100%;
+}
+
+img#line {
+  width: 1280px;
+  height: 150px;
+  margin-left: 0px;
+}
+
+.gradient-container {
+  display: flex;
+  width: 90%;
+  height: auto;
+  background: linear-gradient(90deg, rgb(238, 240, 242) 70%, #305abc 30%);
+  margin-top: 50px;
+  margin-left: 65px;
+  border-radius: 20px;
+  border-width: 20px;
+}
+
+.content {
+  border-radius: 20px;
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: rgb(238, 240, 242);
+  color: rgb(10, 8, 8);
+  padding: 20px;
+}
+
+.content img {
+  margin-bottom: 5px;
+}
+
+.title {
+  font-size: 70px;
+  color: rgb(11, 11, 11);
+  margin-bottom: 20px;
+}
+
+.content p {
+  font-size: 15px;
+  color: rgb(10, 8, 8);
+  text-align: center;
+  padding-left: 2%;
+  padding-right: 10%;
+}
+
+.sidearea {
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #305abc;
+  
+  color: white;
+  font-size: 24px;
+  padding: 20px;
+  border-radius: 20px;
+}
+.overlapping-container {
+  position: absolute;
+  top: 0;
+  left: 62%; 
+  width: 30%; 
+  height: 50%;
+  margin-top: 165px;
+  /* background: #C9DAE6;  */
+  background: rgba(217, 223, 225, 0.5);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 24px;
+}

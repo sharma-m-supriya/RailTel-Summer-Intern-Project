@@ -1,0 +1,43 @@
+.mt-3{
+    width: 100%;
+    align-items: center;
+    border-radius:10px ;
+    font-size: medium;
+}
+
+/* .mt-3 {
+    overflow-y: auto;
+    flex-grow: 1;
+
+} */
+.custom-table {
+    background-color: #e8eef3; /* Off-white background color */
+    border-radius: 0px; 
+    font-family: "Martel", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.custom-head{
+    background-color: #305abc; /* Off-white background color */
+    font-size: 18px;
+    color: #e8eef3;
+    position: sticky;
+    top: 0;
+}
+.container {
+    height: 420px;
+    margin: auto;
+    border-radius:5px ;
+    font-size: medium;
+    /* background-color: 'rgba(255, 255, 255, 0.3)'; */
+}
+.table-container{
+    font-size: 14px;
+    border-radius:5px ;
+}
+
+.table-container {
+    height: 320px; /* Adjust this value to set the desired height */
+    overflow-y: auto;
+    /* background-color: 'rgba(255, 255, 255, 0.3)'; */
+}

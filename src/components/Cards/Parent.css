@@ -1,0 +1,14 @@
+.parent-containerlow {
+    padding: 10px; 
+    margin-left: 100px;
+    margin-top: 50px;
+    background: 'rgba(255, 255, 255, 0.3)';
+    /* margin: 20px auto; */
+}
+.parent-containerup {
+    padding: 10px; 
+    margin-left: 100px;
+    margin-top: 50px;
+    /* margin: 20px auto; */
+}
+
