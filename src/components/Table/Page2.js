@@ -22,7 +22,7 @@ import React from 'react';
 import FetchData2 from '../Home/FetchData2';
 import { Link } from 'react-router-dom';
 import ButtonAppBar from '../Navbar/Navbar';
-import Vector from '../Assests/BlueVector2.png';
+//import Vector from '../Assests/BlueVector2.png';
 
 const Page2 = () => {
   return (
