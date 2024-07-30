@@ -2,7 +2,7 @@ import React from 'react';
 import ButtonAppBar from '../Navbar/Navbar';
 import Parent1 from '../Cards/Parent1';
 import Parent2 from '../Cards/Parent2';
-import Vector from '../Assests/Vector (3).png';
+//import Vector from '../Assests/Vector (3).png';
 
 const Page3 = () => {
     return (
